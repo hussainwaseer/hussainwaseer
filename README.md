@@ -56,8 +56,7 @@ Java, Python, Web Development, Enterprise Applications, C++
 ### ⚡ Fun Fact  
 I can code for hours without getting exhausted!  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph.svg">
-</picture>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainwaseer&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainwaseer&layout=compact&theme=radical" height="150"/>
+</div>
