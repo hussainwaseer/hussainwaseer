@@ -1,31 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
-<h3 align="center">A passionate Sofware engineer from Pakistan</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h3 align="center">I'm Muhammad Hussain, a passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainwaseer&label=Profile%20views&color=0e75b6&style=flat" alt="hussainwaseer" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainwaseer" alt="hussainwaseer" /></a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+</div>
 
-- 🔭 I’m have worked on on [Finanza](https://github.com/hussainwaseer/Finanza-ledger)
+###
 
-- 🌱 I’m currently learning **flutter,dart**
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/hussainwaseer](https://github.com/hussainwaseer)
+###
 
-- 💬 Ask me about **java,python, web development, enterprise application development, c++**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hussainwaseer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=hussainwaseer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
 
-- 📫 How to reach me **muhammadhussain.bscsaif24@iba-suk.edu.pk**
+###
 
-- ⚡ Fun fact **I can code without being exhausted:>**
+### 🔭 Current Focus  
+- Working on **[Finanza Ledger](https://github.com/hussainwaseer/Finanza-ledger)**  
+- Learning **Flutter & Dart**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hussain waseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain waseer" height="30" width="40" /></a>
-<a href="https://fb.com/hussain waseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussain waseer" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_husszn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_husszn" height="30" width="40" /></a>
-</p>
+### 📫 How to Reach Me  
+- **Email**: muhammadhussain.bscsaif24@iba-suk.edu.pk  
+- **All Projects**: [github.com/hussainwaseer](https://github.com/hussainwaseer)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 💬 Ask Me About  
+Java, Python, Web Development, Enterprise Applications, C++  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainwaseer&show_icons=true&locale=en&layout=compact" alt="hussainwaseer" /></p>
+### ⚡ Fun Fact  
+I can code for hours without getting exhausted!  
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hussainwaseer/hussainwaseer/output/pacman-contribution-graph.svg">
+</picture>
