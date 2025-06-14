@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussainwaseer" alt="hussainwaseer" /></a> </p>
 
-- 🔭 I’m currently working on [Finanza](https://github.com/hussainwaseer/Finanza-ledger)
+- 🔭 I’m have worked on on [Finanza](https://github.com/hussainwaseer/Finanza-ledger)
 
 - 🌱 I’m currently learning **flutter,dart**
 
