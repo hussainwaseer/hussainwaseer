@@ -58,6 +58,5 @@ I can code for hours without getting exhausted!
 
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hussainwaseer&show_icons=true&theme=radical" height="150"/> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainwaseer&layout=compact&theme=radical" height="150"/>
 </div>
