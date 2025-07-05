@@ -43,8 +43,10 @@
 ###
 
 ### 🔭 Current Focus  
-- Working on **[Finanza Ledger](https://github.com/hussainwaseer/Finanza-ledger)**  
-- Learning **Flutter & Dart**  
+- Worked on **[Finanza Ledger](https://github.com/hussainwaseer/Finanza-ledger)**
+- - Worked on **[CodeBreaker](https://github.com/hussainwaseer/CodeBreaker)**
+- Learning **Flutter & Dart**
+- Working on real life projects on **Java native** for android development.
 
 ### 📫 How to Reach Me  
 - **Email**: muhammadhussain.bscsaif24@iba-suk.edu.pk  
