@@ -44,7 +44,7 @@
 
 ### 🔭 Current Focus  
 - Worked on **[Finanza Ledger](https://github.com/hussainwaseer/Finanza-ledger)**
-- - Worked on **[CodeBreaker](https://github.com/hussainwaseer/CodeBreaker)**
+- Worked on **[CodeBreaker](https://github.com/hussainwaseer/CodeBreaker)**
 - Learning **Flutter & Dart**
 - Working on real life projects on **Java native** for android development.
 
